@@ -11,9 +11,9 @@ body{
 
 pre{
     z-index: 1 !important;
-    box-shadow: 2000px 2000px 3000px 2000px rgba(0, 0, 0, 0.854) inset !important;
+    box-shadow: 1000px 1000px 1500px 1000px rgba(0, 0, 0, 0.854) inset !important;
     text-align: center;
-    font-size: 4em;
+    font-size: 2em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: aliceblue;
 }

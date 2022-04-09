@@ -11,7 +11,7 @@ let iterator = 0;
 function typeLine() {
   if (line >= text.length){
     if (iterator++ > 20){
-      letters = ["\nНУ, АНТОН ДАВАЙ ДЕНЬГИ?", "\nГОНИ БАБЛО ЧЕРТЯГА?", "\nЭЭЭЭ ДЕНЬГИ ДАЙ?"];
+      letters = ["\nНУ, ДАВАЙ ДЕНЬГИ?", "\nГОНИ БАБЛО ЧЕРТЯГА?", "\nЭЭЭЭ ДЕНЬГИ ДАЙ?"];
     }
     min = 300;
     max = 500;
