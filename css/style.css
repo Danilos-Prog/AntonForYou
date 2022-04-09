@@ -1,0 +1,19 @@
+*{
+    position: relative;
+}
+
+body{
+    background-image: url(/img/wal.jpg);
+    height: 100% !important;
+    box-shadow: 1000px 2000px 1000px 7000px rgba(0, 0, 0, 0.854) !important;
+
+}
+
+pre{
+    z-index: 1 !important;
+    box-shadow: 2000px 2000px 3000px 2000px rgba(0, 0, 0, 0.854) inset !important;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
